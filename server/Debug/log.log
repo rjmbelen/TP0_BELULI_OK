@@ -1,0 +1,17 @@
+[INFO] 15:34:28:534 Servidor/(20804:20804): Servidor listo para recibir al cliente
+[INFO] 15:35:10:611 Servidor/(20804:20804): Se conecto un cliente!
+[INFO] 15:35:10:613 Servidor/(20804:20804): Me llego el mensaje valor
+[ERROR] 15:35:10:613 Servidor/(20804:20804): el cliente se desconecto. Terminando servidor
+[INFO] 15:43:57:907 Servidor/(21245:21245): Servidor listo para recibir al cliente
+[INFO] 15:44:18:778 Servidor/(21245:21245): Se conecto un cliente!
+[INFO] 15:44:18:779 Servidor/(21245:21245): Me llego el mensaje valor
+[ERROR] 15:44:18:780 Servidor/(21245:21245): el cliente se desconecto. Terminando servidor
+[INFO] 20:49:38:519 Servidor/(2717:2717): Servidor listo para recibir al cliente
+[INFO] 20:49:54:275 Servidor/(2717:2717): Se conecto un cliente!
+[INFO] 20:49:54:276 Servidor/(2717:2717): Me llego el mensaje valor
+[INFO] 20:50:13:244 Servidor/(2717:2717): Me llegaron los siguientes valores:
+
+[INFO] 20:50:13:245 Servidor/(2717:2717): esto es un paquete
+[INFO] 20:50:13:245 Servidor/(2717:2717): a enviar en el paquete
+[INFO] 20:50:13:245 Servidor/(2717:2717): al servidor el paquete
+[ERROR] 20:50:13:245 Servidor/(2717:2717): el cliente se desconecto. Terminando servidor
